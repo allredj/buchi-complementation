@@ -1,0 +1,1 @@
+complement -m rank  -t 120 -o "automata/compl/output_rank_compl.gff" "/home/joel/automata/ciaa2010_automata/automata-size-15/new-s-15-r-1.00-f-0.10--9-of-100.gff";
